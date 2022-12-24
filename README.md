@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gone-still
 - 👀 I’m interested in Computer Vision, Artificial Intelligence, Robotics, Game Dev & Dogs
-- 📫 How to reach me: racevedoaa@gmail.com
+- 📫 How to reach me: racevedoaa[at]gmail.com
 
 <!---
 gone-still/gone-still is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
