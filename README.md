@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gone-still
-- 👀 I’m interested in Computer Vision, Artificial Intelligence, Robotics, Game Dev & Dogs
+- 👀 I’m interested in Computer Vision, Artificial Intelligence, Robotics, Game Dev, Synths & Dogs
 - 📫 How to reach me: racevedoaa[at]gmail.com
 
 <!---
