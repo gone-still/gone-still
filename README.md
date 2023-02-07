@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @gone-still
 - 👀 I’m interested in Computer Vision, Artificial Intelligence, Robotics, Game Dev, Synths & Dogs
+- 🤖 I designed hardware for 5 years and been programing for 15
+- 💻 Some of my most-used programming languages are: C, C++, Python, Matlab, Java and atmel-based assembly
 - 📫 How to reach me: racevedoaa[at]gmail.com
 
 <!---
