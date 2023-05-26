@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gone-still
-- 👀 I’m interested in: Computer Vision, NPL, Artificial Intelligence, Robotics, Game Dev, Synths & Dogs
+- 👀 I’m interested in: Computer Vision, NLP, Artificial Intelligence, DSP, Robotics, Game Dev, Synths & Dogs
 - 🚫 I'm NOT interested in: Finances, Databases, Spyware, Automated Recruting, Data Engineering  
 - 🤖 I designed hardware for 5 years (FPGA-based) and have been programing for at least 15 more
 - 💻 Some of my most-used programming languages are: C, C++, Python, Matlab, Lua, Java and atmel-based assembly
