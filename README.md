@@ -5,7 +5,7 @@
 - 💻 Some of my most-used programming languages are: C, C++, Python, Matlab, Lua, Java and atmel-based assembly
 - 📫 How to reach me: racevedoaa[at]gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,ai,raspberrypi,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,matlab,ai,raspberrypi,tensorflow)](https://skillicons.dev)
 
 <!---
 gone-still/gone-still is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
