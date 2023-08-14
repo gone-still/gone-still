@@ -7,6 +7,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,matlab,ai,ps,raspberrypi,tensorflow)](https://skillicons.dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gone-still&show_icons=true&layout=compact&theme=dracula)
+
 <!---
 gone-still/gone-still is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
