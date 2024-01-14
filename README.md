@@ -5,7 +5,7 @@
 - 💻 Some of my most-used programming languages are: C, C++, Python, Matlab, Lua, Java and atmel-based assembly
 - 📫 How to reach me: racevedoaa[at]gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,matlab,ai,ps,raspberrypi,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,matlab,opencv,sklearn,tensorflow,ai,ps,raspberrypi)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gone-still&show_icons=true&layout=compact&theme=dracula&hide_border=true)
 
