@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gone-still
+- 👋 Hi, I’m @gone-still, phd.
 - 👀 I’m interested in: Computer Vision, NLP, Artificial Intelligence, DSP, Robotics, Game Dev, Synths & Dogs
 - 🚫 I'm NOT interested in: Finances, Spyware & Data Engineering  
 - 🤖 I designed hardware for 5 years (FPGA-based) and have been programing for at least 15 more
